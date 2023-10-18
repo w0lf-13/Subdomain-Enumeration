@@ -9,6 +9,8 @@ Enumeration subdomain by using this tool:
 6. httpx
 7. crt.sh
 
+`git clone https://github.com/w0lf-13/Subdomain-Enumeration.git`
+
 `bash install.sh`
 
 `bash w0lf-13.sh example.com`
